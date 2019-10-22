@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Villain", "Remove Villain\Remove Villain.csproj", "{89E6259D-8513-48E8-8253-F2E53F1E5DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E6259D-8513-48E8-8253-F2E53F1E5DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E6259D-8513-48E8-8253-F2E53F1E5DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E6259D-8513-48E8-8253-F2E53F1E5DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E6259D-8513-48E8-8253-F2E53F1E5DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B5F46F-22A4-4261-88A2-681814074C1F}
+	EndGlobalSection
+EndGlobal
