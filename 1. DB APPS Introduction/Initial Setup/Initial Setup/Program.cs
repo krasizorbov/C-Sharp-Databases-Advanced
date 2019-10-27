@@ -7,7 +7,7 @@ namespace Initial_Setup
     {
         static void Main(string[] args)
         {
-            string connectionString = @"Server = DESKTOP-NTEG5RA\SQLEXPRESS;" + "Integrated Security = true;";
+            string connectionString = @"Server = whatever;" + "Integrated Security = true;";
 
             SqlConnection dbCon = new SqlConnection(connectionString);
 
