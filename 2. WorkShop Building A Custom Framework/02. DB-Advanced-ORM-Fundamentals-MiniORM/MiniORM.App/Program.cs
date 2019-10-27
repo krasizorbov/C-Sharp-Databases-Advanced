@@ -9,7 +9,7 @@ namespace MiniORM.App
     {
         static void Main(string[] args)
         {
-            var connectionString = @"Server = DESKTOP-H5R51FC\SQLEXPRESS01; Integrated Security = true; Initial Catalog = MiniORM";
+            var connectionString = @"Server = whatever; Integrated Security = true; Initial Catalog = MiniORM";
 
             var context = new SoftUniDbContext(connectionString);
 
