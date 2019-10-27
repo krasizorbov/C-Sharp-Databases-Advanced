@@ -7,7 +7,7 @@ namespace Villain_Names
     {
         static void Main(string[] args)
         {
-            string connectionString = @"Server = DESKTOP-NTEG5RA\SQLEXPRESS;" + "Integrated Security = true;" + "Initial Catalog = MinionsDB;"; 
+            string connectionString = @"Server = whatever;" + "Integrated Security = true;" + "Initial Catalog = MinionsDB;"; 
 
             SqlConnection dbCon = new SqlConnection(connectionString);
 
