@@ -10,7 +10,7 @@ namespace Change_Town_Names_Casing
         {
             string countryName = Console.ReadLine();
 
-            string connectionString = @"Server = DESKTOP-NTEG5RA\SQLEXPRESS;" + "Integrated Security = true;" + "Initial Catalog = MinionsDB;";
+            string connectionString = @"Server = whatever;" + "Integrated Security = true;" + "Initial Catalog = MinionsDB;";
             SqlConnection dbCon = new SqlConnection(connectionString);
 
             dbCon.Open();
