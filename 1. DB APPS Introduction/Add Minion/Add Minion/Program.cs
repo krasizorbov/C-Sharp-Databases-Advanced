@@ -15,7 +15,7 @@ namespace Add_Minion
             string[] villainInfo = Console.ReadLine().Split();
             string villainName = villainInfo[1];
 
-            string connectionString = @"Server = DESKTOP-NTEG5RA\SQLEXPRESS;" + "Integrated Security = true;" + "Initial Catalog = MinionsDB;";
+            string connectionString = @"Server = whatever;" + "Integrated Security = true;" + "Initial Catalog = MinionsDB;";
             SqlConnection dbCon = new SqlConnection(connectionString);
 
             dbCon.Open();
