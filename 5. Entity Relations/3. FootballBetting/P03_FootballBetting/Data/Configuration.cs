@@ -6,6 +6,6 @@ namespace P03_FootballBetting.Data
 {
     internal class Configuration
     {
-        public const string ConnectionString = @"Server = ;Database = FootballBetting;Integrated Security = True";
+        public const string ConnectionString = @"Server = whatever;Database = FootballBetting;Integrated Security = True";
     }
 }
