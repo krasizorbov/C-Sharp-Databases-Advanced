@@ -6,6 +6,6 @@ namespace P01_StudentSystem.Data
 {
     internal class Configuration
     {
-        public const string ConnectionString = @"Server = DESKTOP-O2CP5S2\SQLEXPRESS;Database = StudentSystem; Integrated Security = True;";
+        public const string ConnectionString = @"Server = whatever;Database = StudentSystem; Integrated Security = True;";
     }
 }
