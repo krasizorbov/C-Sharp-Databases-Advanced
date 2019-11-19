@@ -6,3 +6,5 @@
 # 04 November 2019: Added SoftUni Exercise: Entity Relations
 # 07 November 2019: Added SoftUni Exercise: Advanced Queries
 # 11 November 2019: Added SoftUni Exercise: Automapping Objects
+# 14 November 2019: Added SoftUni Exercise: JSON
+# 19 November 2019: Added SoftUni Exercise: XML
