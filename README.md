@@ -8,3 +8,4 @@
 # 11 November 2019: Added SoftUni Exercise: Automapping Objects
 # 14 November 2019: Added SoftUni Exercise: JSON
 # 19 November 2019: Added SoftUni Exercise: XML
+# 24 November 2019: Added SoftUni Exercise: Design Patterns
