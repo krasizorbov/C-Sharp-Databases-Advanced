@@ -10,3 +10,4 @@
 # 19 November 2019: Added SoftUni Exercise: XML
 # 24 November 2019: Added SoftUni Exercise: Design Patterns
 # 29 November 2019: Added SoftUni Exercise: Best Practices And Architecture
+# 30 November 2019: Added Solution to SoftUni Exam: From 12/08/2018
