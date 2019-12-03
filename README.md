@@ -11,3 +11,4 @@
 # 24 November 2019: Added SoftUni Exercise: Design Patterns
 # 29 November 2019: Added SoftUni Exercise: Best Practices And Architecture
 # 30 November 2019: Added Solution to SoftUni Exam: From 12/08/2018
+# 03 December 2019: Added Solution to SoftUni Exam: From 07/04/2019
